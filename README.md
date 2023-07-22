@@ -1,1 +1,1 @@
-# python_study
+# just for the study for arithmetic
